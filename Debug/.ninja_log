@@ -1,0 +1,18 @@
+# ninja log v5
+5	275	6935035852456782	C:/Users/jongh/Documents/repo/iar_workspace/Debug/Obj/EWARM/startup_stm32f40_41xxx.o	eada0c159c5aadb5
+227	494	6935035854557122	C:/Users/jongh/Documents/repo/iar_workspace/Debug/Obj/CMSIS/system_stm32f4xx.o	719c74f3ecde9f1e
+1	515	6935035854757139	C:/Users/jongh/Documents/repo/iar_workspace/Debug/Obj/GUI/GLCD.o	f727b60429f8b042
+276	533	6935035854907139	C:/Users/jongh/Documents/repo/iar_workspace/Debug/Obj/GUI/GuiObject.o	754cb3be4e3a36ff
+536	745	6935035857097748	C:/Users/jongh/Documents/repo/iar_workspace/Debug/Obj/GUI/Gulim7_6x10_ASCII.o	da6a6096dd1020b0
+497	759	6935035857147468	C:/Users/jongh/Documents/repo/iar_workspace/Debug/Obj/GUI/Gulim20_16x34_ASCII.o	cf5fc94eb054b951
+518	828	6935035857902641	C:/Users/jongh/Documents/repo/iar_workspace/Debug/Obj/GUI/Gulim28_24x48_ASCII.o	9c0c3c8f7f8c24ce
+748	970	6935035859327834	C:/Users/jongh/Documents/repo/iar_workspace/Debug/Obj/GUI/Gulim10_8x16_ASCII.o	6721bf51e1223be9
+763	1031	6935035859923330	C:/Users/jongh/Documents/repo/iar_workspace/Debug/Obj/STM32F4xx_StdPeriph_Driver/stm32f4xx_fsmc.o	9d9351e0e8a689b7
+830	1053	6935035860133010	C:/Users/jongh/Documents/repo/iar_workspace/Debug/Obj/GUI/Gulim8_8x12_ASCII.o	2b5e79b95bffea4b
+972	1236	6935035861993371	C:/Users/jongh/Documents/repo/iar_workspace/Debug/Obj/GUI/ILI9163B.o	e2270ca0a8228216
+1034	1256	6935035862193404	C:/Users/jongh/Documents/repo/iar_workspace/Debug/Obj/STM32F4xx_StdPeriph_Driver/stm32f4xx_gpio.o	89b21c856034dfff
+1055	1339	6935035863018592	C:/Users/jongh/Documents/repo/iar_workspace/Debug/Obj/STM32F4xx_StdPeriph_Driver/stm32f4xx_rcc.o	1e7b4bcb18952491
+1259	1466	6935035864294418	C:/Users/jongh/Documents/repo/iar_workspace/Debug/Obj/User/Util.o	4622e1d4c1bb912
+1239	1495	6935035864569833	C:/Users/jongh/Documents/repo/iar_workspace/Debug/Obj/User/main.o	d885b16f49277aa5
+1498	1869	6935035868320272	C:/Users/jongh/Documents/repo/iar_workspace/Debug/Exe/iar_workspace.out	7d58e8b03823d948
+1871	1934	6935035869067886	C:/Users/jongh/Documents/repo/iar_workspace/Debug/Exe/iar_workspace.hex	49c73d661576da86
