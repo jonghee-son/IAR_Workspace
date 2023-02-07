@@ -1,23 +1,23 @@
-"C:\Users\jongh\Documents\repo\iar_workspace\Libraries\CMSIS\Device\ST\STM32F4xx\Source\Templates\system_stm32f4xx.c"
+"C:\Users\jongh\Documents\repo\IAR_Workspace\Libraries\CMSIS\Device\ST\STM32F4xx\Source\Templates\system_stm32f4xx.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-C:\Users\jongh\Documents\repo\iar_workspace\Debug\BrowseInfo\CMSIS\system_stm32f4xx.pbi.dep
+C:\Users\jongh\Documents\repo\IAR_Workspace\Debug\BrowseInfo\CMSIS\system_stm32f4xx.pbi.dep
 -o
-C:\Users\jongh\Documents\repo\iar_workspace\Debug\BrowseInfo\CMSIS\system_stm32f4xx.pbi
+C:\Users\jongh\Documents\repo\IAR_Workspace\Debug\BrowseInfo\CMSIS\system_stm32f4xx.pbi
 -I
-C:\Users\jongh\Documents\repo\iar_workspace\Libraries\CMSIS\Device\ST\STM32F4xx\Source\Templates
+C:\Users\jongh\Documents\repo\IAR_Workspace\Libraries\CMSIS\Device\ST\STM32F4xx\Source\Templates
 -I
-C:\Users\jongh\Documents\repo\iar_workspace\Libraries\CMSIS\Device\ST\STM32F4xx\Include
+C:\Users\jongh\Documents\repo\IAR_Workspace\Libraries\CMSIS\Device\ST\STM32F4xx\Include
 -I
-C:\Users\jongh\Documents\repo\iar_workspace\Libraries\CMSIS\Include
+C:\Users\jongh\Documents\repo\IAR_Workspace\Libraries\CMSIS\Include
 -I
-C:\Users\jongh\Documents\repo\iar_workspace\Libraries
+C:\Users\jongh\Documents\repo\IAR_Workspace\Libraries
 -I
-C:\Users\jongh\Documents\repo\iar_workspace\Libraries\STM32F4xx_StdPeriph_Driver\inc
+C:\Users\jongh\Documents\repo\IAR_Workspace\Libraries\STM32F4xx_StdPeriph_Driver\inc
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\CMSIS\Core\Include\
 -I
@@ -27,13 +27,13 @@ C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc\c
 -I
-C:\Users\jongh\Documents\repo\iar_workspace\Libraries\CMSIS\Device\ST\STM32F4xx\Include
+C:\Users\jongh\Documents\repo\IAR_Workspace\Libraries\CMSIS\Device\ST\STM32F4xx\Include
 -I
-C:\Users\jongh\Documents\repo\iar_workspace\Libraries\CMSIS\Include
+C:\Users\jongh\Documents\repo\IAR_Workspace\Libraries\CMSIS\Include
 -I
-C:\Users\jongh\Documents\repo\iar_workspace\Libraries
+C:\Users\jongh\Documents\repo\IAR_Workspace\Libraries
 -I
-C:\Users\jongh\Documents\repo\iar_workspace\Libraries\STM32F4xx_StdPeriph_Driver\inc
+C:\Users\jongh\Documents\repo\IAR_Workspace\Libraries\STM32F4xx_StdPeriph_Driver\inc
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\CMSIS\Core\Include
 -D__CHAR_BITS__=8
@@ -240,8 +240,8 @@ C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\CMSIS\Core\Include
 -D__JMP_BUF_ELEMENT_TYPE__=unsigned long long int
 -D__JMP_BUF_NUM_ELEMENTS__=16
 -D__TID__=0xcf60
--D__VER__=9030001
--D__BUILD_NUMBER__=335
+-D__VER__=9032001
+-D__BUILD_NUMBER__=338
 -D__IAR_SYSTEMS_ICC__=9
 -D_MAX_ALIGNMENT=8
 -D__LITTLE_ENDIAN__=1
@@ -340,8 +340,8 @@ C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\CMSIS\Core\Include
 -D__HAS_JOINED_TYPES__=1
 -D__HAS_LOCATED_DECLARATION__=1
 -D__HAS_LOCATED_WITH_INIT__=1
--D__IAR_COMPILERBASE__=0xa0b01
--D__IAR_COMPILERBASE_STR__=10.11.1.1407
+-D__IAR_COMPILERBASE__=0xa0c04
+-D__IAR_COMPILERBASE_STR__=10.12.4.1420
 -D__UNICODE_SOURCE_SUPPORTED__=1
 -D__VTABLE_MEM__=
 -D__PRAGMA_REDEFINE_EXTNAME=1
@@ -371,7 +371,7 @@ C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\CMSIS\Core\Include
 -D__cpp_unicode_literals=200710L
 -D__cpp_static_assert=200410L
 -D__EDG__=1
--D__EDG_VERSION__=602
+-D__EDG_VERSION__=603
 -D__EDG_SIZE_TYPE__=unsigned int
 -D__EDG_PTRDIFF_TYPE__=int
 -D__EDG_DELTA_TYPE=int
@@ -394,7 +394,7 @@ C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\CMSIS\Core\Include
 -DUSE_STDPERIPH_DRIVER=1
 -D_DLIB_CONFIG_FILE_HEADER_NAME="C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc\c\DLib_Config_Normal.h"
 -D_DLIB_CONFIG_FILE_STRING="C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1\\arm\\inc\\c\\DLib_Config_Normal.h"
--D__VERSION__="IAR ANSI C/C++ Compiler V9.30.1.335/W64 for ARM"
+-D__VERSION__="IAR ANSI C/C++ Compiler V9.32.1.338/W64 for ARM"
 -D_VA_DEFINED=
 -D_VA_LIST=struct __va_list
 -D__ICCARM_OLD_DEFINED_VAARGS__=1

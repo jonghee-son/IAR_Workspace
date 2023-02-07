@@ -2858,6 +2858,12 @@
         </file>
     </group>
     <group>
+        <name>FRAM</name>
+        <file>
+            <name>$PROJ_DIR$\Libraries\FRAM.c</name>
+        </file>
+    </group>
+    <group>
         <name>GUI</name>
         <file>
             <name>$PROJ_DIR$\Libraries\GLCD.c</name>
@@ -2895,12 +2901,12 @@
         <file>
             <name>$PROJ_DIR$\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c</name>
         </file>
+        <file>
+            <name>$PROJ_DIR$\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c</name>
+        </file>
     </group>
     <group>
         <name>User</name>
-        <file>
-            <name>$PROJ_DIR$\main.c</name>
-        </file>
         <file>
             <name>$PROJ_DIR$\Libraries\Util.c</name>
         </file>
